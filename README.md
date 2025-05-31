@@ -12,7 +12,7 @@ Fueled by a deep passion for software engineering and AI integration, I thrive o
 
 🤝 I'm always excited to collaborate on open-source or enterprise projects that push the boundaries of full-stack development, smart applications, and AI-enhanced platforms.
 
-🔗 [Explore My Projects](https://github.com/ashleyrosario-sdn) | [Connect on LinkedIn](https://www.linkedin.com/in/ashleyrosario06) | [Visit My GitHub](https://github.com/ashleyrosario-sdn)
+[Connect on LinkedIn](https://www.linkedin.com/in/ashleyrosario06) | [Visit My GitHub](https://github.com/ashleyrosario-sdn)
 
 ---
 
