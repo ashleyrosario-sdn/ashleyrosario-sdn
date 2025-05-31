@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F1F71D&center=true&vCenter=true&width=800&lines=Welcome+to+Ashley%27s+GitHub+Profile!;+Senior+.NET+Developer+|+Full-Stack+Developer+" alt="Welcome Banner" />
 </p>
+
 ---
 
 ## 👋 Hi, I'm **Ashley Rosario**
