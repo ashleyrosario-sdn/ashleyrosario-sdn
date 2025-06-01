@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F1F71D&center=true&vCenter=true&width=800&lines=Welcome+to+Ashley%27s+GitHub+Profile!;+Senior+.NET+Developer+|+Full-Stack+Developer+" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F1F71D&center=true&vCenter=true&width=800&lines=Welcome+to+Ashley%27s+GitHub+Profile!;+Senior+.NET+Developer+|+Full-Stack+Developer" alt="Welcome Banner" />
 </p>
 
 ---
@@ -12,6 +12,14 @@ Fueled by a deep passion for software engineering and AI integration, I thrive o
 
 🤝 I'm always excited to collaborate on open-source or enterprise projects that push the boundaries of full-stack development, smart applications, and AI-enhanced platforms.
 
+---
+
+### 🔍 Exploring:
+- Real-time AI & ML integration into enterprise apps  
+- Speech recognition workflows using .NET + AI  
+- OpenCV pipelines for image processing and automation  
+- Building scalable full-stack health-tech & ed-tech platforms  
+- Applying deep learning in traditional backend architectures  
 
 ---
 
@@ -41,19 +49,31 @@ Fueled by a deep passion for software engineering and AI integration, I thrive o
 
 ---
 
-## 🚀 Featured Projects
+### 🤝 Open to Collaborate:
+I love working on:
+- Open-source computer vision & AI tools  
+- Scalable enterprise SaaS platforms  
+- Cross-functional projects combining .NET, Angular & ML  
+- Feature engineering, ML deployment, or NLP modules  
 
-🔹 **LetsBe**  
-Cloud-based SaaS EHR & PMS with Twilio integration and wearable APIs.  
-*Tech: .NET Core, Angular, AWS, Twilio*
+---
 
-🔹 **ADHD Behavioral Health Platform**  
-Automated patient workflows and intelligent dashboards for behavioral care.  
-*Tech: .NET Core, Angular, SQL Server*
+### 🧠 Looking For:
+- **Freelance or full-time roles** blending software engineering and AI  
+- **Business opportunities** where I can pitch my own idea or partner on execution  
+- Partnerships to transform ML/AI prototypes into working products
 
-🔹 **Aerial Spy Bot**  
-Android-controlled spying drone and bomb disposal robot for military safety.  
-*Tech: C#, Embedded Systems, Android*
+---
+### 🌱 Currently Learning:
+- Real-time video processing with OpenCV  
+- .NET ML integration using ONNX + ML.NET  
+- LLM-based assistant integration into enterprise backends  
+- Conversational AI (voice + text) with speech-to-text APIs  
+
+---
+
+### ⚡ Fun Fact:
+I once built an Android-controlled spy drone and bomb disposal robot — proving that smart code can save real lives.
 
 ---
 
