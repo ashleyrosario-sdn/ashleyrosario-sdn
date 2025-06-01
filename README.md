@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F1F71D&center=true&vCenter=true&width=800&lines=Welcome+to+Ashley%27s+GitHub+Profile!;+Senior+.NET+Developer+|+Full-Stack+Developer" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F1F71D&center=true&vCenter=true&width=800&lines=Welcome+to+Ashley%27s+GitHub+Profile!;+Senior+.NET+Developer+|+Full-Stack+Developer+" alt="Welcome Banner" />
 </p>
 
 ---
-
 ## 👋 Hi, I'm **Ashley Rosario**
 
 Fueled by a deep passion for software engineering and AI integration, I thrive on building scalable, intelligent solutions that bridge traditional full-stack development with cutting-edge machine learning and deep learning capabilities.
@@ -65,9 +64,9 @@ I love working on:
 
 ---
 ### 🌱 Currently Learning:
-- Real-time video processing with OpenCV  
 - .NET ML integration using ONNX + ML.NET  
 - LLM-based assistant integration into enterprise backends  
+- Productizing AI ideas from MVP to scale  
 - Conversational AI (voice + text) with speech-to-text APIs  
 
 ---
@@ -83,4 +82,3 @@ I once built an Android-controlled spy drone and bomb disposal robot — proving
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ashleyrosario-sdn&icon=0&color=0)](https://visitcount.itsvg.in)
-
